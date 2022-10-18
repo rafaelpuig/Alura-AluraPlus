@@ -8,7 +8,9 @@
 <br />
 O AluraPlus é um objeto didático produzido pela [ Alura ](https://www.alura.com.br) que emula o ambiente de uma plataforma de streaming, com o objetivo de **simular a experiência de um projeto real**, desenvolvido a partir de um layout no Figma, e **praticar os conhecimentos adquiridos em HTML e CSS** ao longo da formação de front-end. 
 <br />
+<br />
 ## Conhecimentos aplicados
+<br />
 <br />
   **Iniciando projetos** <br />
   *Gerenciar a pasta do projeto e os arquivos HTML e CSS no computador e no editor de código; <br />
@@ -19,42 +21,50 @@ O AluraPlus é um objeto didático produzido pela [ Alura ](https://www.alura.co
   *Alterar a cor de fundo da página e da escrita; <br />
   *Inserir imagem de fundo com background-image e com a tag <img> assim como compreender suas diferenças de utilização. <br />
 <br />
+<br />
   **HTML + CSS**
-  
-  *Criação de botões na página (diferença entre <button> e <a>);
-  *Utilização do padrão BEM (block element modifier);
-  *Unidade de medida responsiva EM;
-  *Display inline e block;
-  *CSS grid e grid-template-columns para o layout da tela;
-  *Utilização da ferramenta do desenvolvedor no navegador;
-  *Detectar diferentes tipos de fontes e tamanhos de letras no Figma;
-  *Escolher fontes no fonts.google.com;
-  *Importar fontes externas no arquivo HTML;
-  *Usar variáveis CSS para armazenar valores, como o nome das fontes;
-  *Aplicar a fonte importada nos elementos através do CSS e outros atributos relacionados: font-family, font-size, font-weight;
-  *Remover a decoração do texto de links através do text-decoration.
-
+<br />
+<br />
+  *Criação de botões na página (diferença entre <button> e <a>);<br />
+  *Utilização do padrão BEM (block element modifier);<br />
+  *Unidade de medida responsiva EM;<br />
+  *Display inline e block;<br />
+  *CSS grid e grid-template-columns para o layout da tela;<br />
+  *Utilização da ferramenta do desenvolvedor no navegador;<br />
+  *Detectar diferentes tipos de fontes e tamanhos de letras no Figma;<br />
+  *Escolher fontes no fonts.google.com;<br />
+  *Importar fontes externas no arquivo HTML;<br />
+  *Usar variáveis CSS para armazenar valores, como o nome das fontes;<br />
+  *Aplicar a fonte importada nos elementos através do CSS e outros atributos relacionados: font-family, font-size, font-weight;<br />
+  *Remover a decoração do texto de links através do text-decoration.<br />
+<br />
+<br />
   **Posicionando elementos**
-  
-  *Afastamento de elementos em relação à tela e demais elementos;
-  *Diferença entre margin e padding;
-  *Maneiras de determinar os valores e as direções das margens dentro da propriedade margin;
-  *Construir uma nova section;
-  *Reutilizar estilos através das classes dentro da nova section;
-  *Atribuir mais de uma classe nos elementos para incluir novas estilizações além das existentes.
-
+<br />
+<br />
+  *Afastamento de elementos em relação à tela e demais elementos;<br />
+  *Diferença entre margin e padding;<br />
+  *Maneiras de determinar os valores e as direções das margens dentro da propriedade margin;<br />
+  *Construir uma nova section;<br />
+  *Reutilizar estilos através das classes dentro da nova section;<br />
+  *Atribuir mais de uma classe nos elementos para incluir novas estilizações além das existentes.<br />
+<br />
+  <br />
   **Finalizando a página**
-
-  *Utilização do Flexbox;
-  *Flex-containers, flex-itens, flex-direction;
-  *Footer;
-  *Pseudo-classes no CSS: hover e active.
-
-  **Compartilhando o projeto**
-  
-  *Criar uma conta no Github;
-  *Construir um repositório com o código do curso;
-  *Escrever commits;
-  *Fazer deploy no Github Pages e Vercel;
-  *Editar código no VSCode Web;
-  *Enviar alterações para o repositório já existente.
+<br />
+  <br />
+  *Utilização do Flexbox;<br /><br />
+  *Flex-containers, flex-itens, flex-direction;<br />
+  *Footer;<br />
+  *Pseudo-classes no CSS: hover e active.<br />
+<br />
+  <br />
+  **Compartilhando o projeto**<br />
+  <br />
+  <br />
+  *Criar uma conta no Github;<br />
+  *Construir um repositório com o código do curso;<br />
+  *Escrever commits;<br />
+  *Fazer deploy no Github Pages e Vercel;<br />
+  *Editar código no VSCode Web;<br />
+  *Enviar alterações para o repositório já existente.<br />

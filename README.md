@@ -9,8 +9,8 @@
 O AluraPlus é um objeto didático produzido pela [ Alura ](https://www.alura.com.br) que emula o ambiente de uma plataforma de streaming, com o objetivo de **simular a experiência de um projeto real**, desenvolvido a partir de um layout no Figma, e **praticar os conhecimentos adquiridos em HTML e CSS** ao longo da formação de front-end. 
 <br />
 <br />
-## Contributing
-<br />
+
+## Aprendizados
 <br />
   <strong>Iniciando projetos</strong><br />
   * Gerenciar a pasta do projeto e os arquivos HTML e CSS no computador e no editor de código; <br />

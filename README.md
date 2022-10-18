@@ -12,9 +12,7 @@ O AluraPlus é um objeto didático produzido pela [ Alura ](https://www.alura.co
 ## Conhecimentos aplicados
 <br />
 <br />
-  <strong>Iniciando projetos</strong>
-<br />
-<br />
+  <strong>Iniciando projetos</strong><br />
   * Gerenciar a pasta do projeto e os arquivos HTML e CSS no computador e no editor de código; <br />
   * Escrever o código base do arquivo HTML; <br />
   * Preencher os dados que auxiliam o navegador a entender a codificação de caracteres, o tamanho do dispositivo e a conexão de arquivos externos; <br />
@@ -23,10 +21,7 @@ O AluraPlus é um objeto didático produzido pela [ Alura ](https://www.alura.co
   * Alterar a cor de fundo da página e da escrita; <br />
   * Inserir imagem de fundo com background-image e img, bem como compreender suas diferenças de utilização. <br />
 <br />
-<br />
-  <strong>HTML + CSS</strong>
-<br />
-<br />
+  <strong>HTML + CSS</strong><br />
   * Criação de botões na página (diferença entre <button> e <a>);<br />
   * Utilização do padrão BEM (block element modifier);<br />
   * Unidade de medida responsiva EM;<br />
@@ -40,10 +35,7 @@ O AluraPlus é um objeto didático produzido pela [ Alura ](https://www.alura.co
   * Aplicar a fonte importada nos elementos através do CSS e outros atributos relacionados: font-family, font-size, font-weight;<br />
   * Remover a decoração do texto de links através do text-decoration.<br />
 <br />
-<br />
-  <strong>Posicionando elementos</strong>
-<br />
-<br />
+  <strong>Posicionando elementos</strong><br />
   * Afastamento de elementos em relação à tela e demais elementos;<br />
   * Diferença entre margin e padding;<br />
   * Maneiras de determinar os valores e as direções das margens dentro da propriedade margin;<br />
@@ -51,19 +43,13 @@ O AluraPlus é um objeto didático produzido pela [ Alura ](https://www.alura.co
   * Reutilizar estilos através das classes dentro da nova section;<br />
   * Atribuir mais de uma classe nos elementos para incluir novas estilizações além das existentes.<br />
 <br />
-  <br />
- <strong>Finalizando a página</strong>
-<br />
-<br />
+ <strong>Finalizando a página</strong><br />
   * Utilização do Flexbox;<br />
   * Flex-containers, flex-itens, flex-direction;<br />
   * Footer;<br />
   * Pseudo-classes no CSS: hover e active.<br />
 <br />
-<br />
- <strong>Compartilhando o projeto</strong>
-<br />
-<br />
+ <strong>Compartilhando o projeto</strong><br />
   * Criar uma conta no Github;<br />
   * Construir um repositório com o código do curso;<br />
   * Escrever commits;<br />

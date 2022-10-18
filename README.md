@@ -12,17 +12,19 @@ O AluraPlus é um objeto didático produzido pela [ Alura ](https://www.alura.co
 ## Conhecimentos aplicados
 <br />
 <br />
-  **Iniciando projetos** <br />
+  <strong>Iniciando projetos</strong>
+<br />
+<br />
   *Gerenciar a pasta do projeto e os arquivos HTML e CSS no computador e no editor de código; <br />
   *Escrever o código base do arquivo HTML; <br />
   *Preencher os dados que auxiliam o navegador a entender a codificação de caracteres, o tamanho do dispositivo e a conexão de arquivos externos; <br />
   *Estabelecer e utilizar variáveis CSS, incluindo nomes para cores ao invés do código hexadecimal; <br />
   *Utilização do Live Server; <br />
   *Alterar a cor de fundo da página e da escrita; <br />
-  *Inserir imagem de fundo com background-image e com a tag <img> assim como compreender suas diferenças de utilização. <br />
+  *Inserir imagem de fundo com background-image e img, bem como compreender suas diferenças de utilização. <br />
 <br />
 <br />
-  **HTML + CSS**
+  <strong>HTML + CSS</strong>
 <br />
 <br />
   *Criação de botões na página (diferença entre <button> e <a>);<br />
@@ -39,7 +41,7 @@ O AluraPlus é um objeto didático produzido pela [ Alura ](https://www.alura.co
   *Remover a decoração do texto de links através do text-decoration.<br />
 <br />
 <br />
-  **Posicionando elementos**
+  <strong>Posicionando elementos</strong>
 <br />
 <br />
   *Afastamento de elementos em relação à tela e demais elementos;<br />
@@ -50,18 +52,18 @@ O AluraPlus é um objeto didático produzido pela [ Alura ](https://www.alura.co
   *Atribuir mais de uma classe nos elementos para incluir novas estilizações além das existentes.<br />
 <br />
   <br />
-  **Finalizando a página**
+ <strong>Finalizando a página</strong>
 <br />
-  <br />
+<br />
   *Utilização do Flexbox;<br /><br />
   *Flex-containers, flex-itens, flex-direction;<br />
   *Footer;<br />
   *Pseudo-classes no CSS: hover e active.<br />
 <br />
-  <br />
-  **Compartilhando o projeto**<br />
-  <br />
-  <br />
+<br />
+ <strong>Compartilhando o projeto</strong>
+<br />
+<br />
   *Criar uma conta no Github;<br />
   *Construir um repositório com o código do curso;<br />
   *Escrever commits;<br />

@@ -5,20 +5,20 @@
 ![AluraPlus](https://user-images.githubusercontent.com/95223411/196437210-68372c6f-0255-4374-8fe7-028926ecae78.png)
 
 ## Introdução
-
+<br />
 O AluraPlus é um objeto didático produzido pela [ Alura ](https://www.alura.com.br) que emula o ambiente de uma plataforma de streaming, com o objetivo de **simular a experiência de um projeto real**, desenvolvido a partir de um layout no Figma, e **praticar os conhecimentos adquiridos em HTML e CSS** ao longo da formação de front-end. 
-
+<br />
 ## Conhecimentos aplicados
-
-  **Iniciando projetos**
-  *Gerenciar a pasta do projeto e os arquivos HTML e CSS no computador e no editor de código;
-  *Escrever o código base do arquivo HTML;
-  *Preencher os dados que auxiliam o navegador a entender a codificação de caracteres, o tamanho do dispositivo e a conexão de arquivos externos;
-  *Estabelecer e utilizar variáveis CSS, incluindo nomes para cores ao invés do código hexadecimal;
-  *Utilização do Live Server;
-  *Alterar a cor de fundo da página e da escrita;
-  *Inserir imagem de fundo com background-image e com a tag <img> assim como compreender suas diferenças de utilização.
-
+<br />
+  **Iniciando projetos** <br />
+  *Gerenciar a pasta do projeto e os arquivos HTML e CSS no computador e no editor de código; <br />
+  *Escrever o código base do arquivo HTML; <br />
+  *Preencher os dados que auxiliam o navegador a entender a codificação de caracteres, o tamanho do dispositivo e a conexão de arquivos externos; <br />
+  *Estabelecer e utilizar variáveis CSS, incluindo nomes para cores ao invés do código hexadecimal; <br />
+  *Utilização do Live Server; <br />
+  *Alterar a cor de fundo da página e da escrita; <br />
+  *Inserir imagem de fundo com background-image e com a tag <img> assim como compreender suas diferenças de utilização. <br />
+<br />
   **HTML + CSS**
   
   *Criação de botões na página (diferença entre <button> e <a>);

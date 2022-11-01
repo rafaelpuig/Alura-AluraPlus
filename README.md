@@ -6,7 +6,7 @@
 
 ## Introdução
 <br />
-O AluraPlus é um objeto didático produzido pela [Alura](https://www.alura.com.br/) que emula o ambiente de uma plataforma de streaming, com o objetivo de <b>simular a experiência de um projeto real</b>, desenvolvido a partir de um layout no Figma, e <b>praticar os conhecimentos adquiridos em HTML e CSS</b> ao longo da formação de front-end.
+O AluraPlus é um objeto didático produzido pela [Alura](https://www.alura.com.br) que emula o ambiente de uma plataforma de streaming, com o objetivo de <b>simular a experiência de um projeto real</b>, desenvolvido a partir de um layout no Figma, e <b>praticar os conhecimentos adquiridos em HTML e CSS</b> ao longo da formação de front-end.
 <br />
 <br />
 
